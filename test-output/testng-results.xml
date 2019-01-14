@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Début de test:  2019-01-14T09:35:21.112]]>
+    </line>
+    <line>
+      <![CDATA[Initialisation terminé !]]>
+    </line>
+    <line>
+      <![CDATA[Connexion réussi !]]>
+    </line>
+    <line>
+      <![CDATA[Ouverture du site de commande réussi]]>
+    </line>
+    <line>
+      <![CDATA[Recherche fonctionnel !]]>
+    </line>
+    <line>
+      <![CDATA[Déconnexion réussi !]]>
+    </line>
+    <line>
+      <![CDATA[Fin de test:  2019-01-14T09:36:04.750]]>
+    </line>
+  </reporter-output>
+  <suite name="main" duration-ms="49284" started-at="2019-01-14T08:35:15Z" finished-at="2019-01-14T08:36:04Z">
+    <groups>
+    </groups>
+    <test name="testNGTest" duration-ms="49284" started-at="2019-01-14T08:35:15Z" finished-at="2019-01-14T08:36:04Z">
+      <class name="main.java.Main">
+        <test-method status="PASS" signature="main()[pri:0, instance:main.java.Main@6e8dacdf]" name="main" duration-ms="49269" started-at="2019-01-14T09:35:15Z" finished-at="2019-01-14T09:36:04Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Début de test:  2019-01-14T09:35:21.112]]>
+            </line>
+            <line>
+              <![CDATA[Initialisation terminé !]]>
+            </line>
+            <line>
+              <![CDATA[Connexion réussi !]]>
+            </line>
+            <line>
+              <![CDATA[Ouverture du site de commande réussi]]>
+            </line>
+            <line>
+              <![CDATA[Recherche fonctionnel !]]>
+            </line>
+            <line>
+              <![CDATA[Déconnexion réussi !]]>
+            </line>
+            <line>
+              <![CDATA[Fin de test:  2019-01-14T09:36:04.750]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- main -->
+      </class> <!-- main.java.Main -->
+    </test> <!-- testNGTest -->
+  </suite> <!-- main -->
+</testng-results>

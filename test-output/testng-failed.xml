@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [main]">
+  <listeners>
+    <listener class-name="main.java.listenerTestNG"/>
+  </listeners>
+  <test name="testNGTest(failed)">
+    <classes>
+      <class name="main.java.Main">
+        <methods>
+          <include name="main"/>
+        </methods>
+      </class> <!-- main.java.Main -->
+    </classes>
+  </test> <!-- testNGTest(failed) -->
+</suite> <!-- Failed suite [main] -->
